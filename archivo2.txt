@@ -1,1 +1,2 @@
-texto añadido-jvrt
+cambiando la primera línea
+agregando una segunda línea
